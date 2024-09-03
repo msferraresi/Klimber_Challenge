@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CopyComplete
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Downloads\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Mauro_Ferraresi\Downloads\DevelopmentChallenge (1)\DevelopmentChallenge\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.pdb
